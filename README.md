@@ -5,5 +5,5 @@ Hamura, Y., Onizuka, T., Hashimoto, S. and Sugasawa, S. (2025). Robust Bayesian 
 
 The repository includes the following 2 files.
 
-- RSV-function.R: Script implementing the proposed robust survival models
-- Example. R: Script for oneshot simulation study 
+- `RSV-function.R`: Script implementing the proposed robust survival models
+- `Example.R`: Script for oneshot simulation study 
